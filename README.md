@@ -1,7 +1,7 @@
 # Vanden Eynde Dorian
 **" J'parle pas aux cons, ça les instruits "**
 
-![Photo](image.png){width = 100 ; height = 100}
+![Photo](image.png)
 
 ### ``Détérminé`` 
 
