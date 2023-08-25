@@ -37,4 +37,5 @@ tu as besoin de moi pour quelque chose, peut importe la situation, l'endroit ou 
 ## Une histoire amusante
 Un jour j'ai oublié mon sac dans le bus avec un pc portable dedans (il n'y avait pas de code). La personne qui a reprit mon sac a ouvert mes sessions instagram, facebook et twitter pour faire la promotion de ses sons hip-hop. Au final je sais qui est la personne, elle sait qui je suis mais je n'ai jamais revu mes affaires et j'écoute ses sons depuis. :joy:
 
+[<< previous](https://github.com/bastien-venturi/markdown-challenge) || Vanden Eynde Dorian || [next>>]()
 
